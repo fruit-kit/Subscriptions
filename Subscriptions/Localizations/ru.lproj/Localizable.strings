@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Subscriptions
+
+  Created by Robert Kotrutsa on 12.12.2023.
+  
+*/
+
+// MARK: - AuthViewController
+
+"Sign Up" = "Регистрация";
+"Log In" = "Вход";
+"Already have an account?" = "Уже зарегистрированы?";
+"Don't have an account yet?" = "Еще не зарегистрированы?";
+"User name" = "Ваше имя";
+"Email address" = "Электронная почта";
+"Password" = "Пароль";
+"Or continue with" = "Или продолжите с помощью";
+"Forgot your password?" = "Забыли пароль?";
+"Reset Password" = "Сброс пароля";
+
+// MARK: - ForgotPasswordViewController
+
+"Reset" = "Сбросить пароль";
+"Password recovery instructions will be sent to your email" = "Инструкция по восстановлению пароля будет отправлена на вашу электронную почту";
+
+// MARK: - HomeViewController
+
+"Total cost of subscriptions: \n$%.2f" = "Общая стоимость подписок: \n$%.2f";
+"Subscriptions" = "Подписки";
+
+// MARK: - PersonViewController
+
+"Personal info" = "Профиль";
+
+// MARK: - SettingsViewController
+
+"Settings" = "Настройки";
+"Lenguage" = "Язык";
+"RU" = "РУ";
+"To change the language you need to reload the application. Reload?" = "Для смены языка необходимо перезагрузить приложение. Перезагрузить?";
+"Cancel" = "Отмена";
+"Support" = "Поддержка";
+"Social" = "Социальные сети";
+
+// MARK: - SubListViewController
+
+"Select Subscription" = "Выбор подписки";
+"Search Subscription" = "Поиск подписки";
+
+// MARK: - SubPlanViewController
+
+"Select Plan" = "Выбор плана";
+"Add subscription" = "Добавить подписку";
+"Cost per month:" = "Стоимость в месяц";
+
+// MARK: - SupportViewController
+
+"Email" = "Почта";
+"If you notice any problem \nplease let us know by email \n👇" = "Если вы заметили какую-либо проблему \nпожалуйста сообщите нам об этом по электронной почте \n👇";
+
+
