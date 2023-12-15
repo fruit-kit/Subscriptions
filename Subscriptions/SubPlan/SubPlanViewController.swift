@@ -35,6 +35,8 @@ class SubPlanViewController: UIViewController {
     
     @IBOutlet weak var selectPlanSegmentControl: UISegmentedControl!
     
+    @IBOutlet weak var datePicker: UIDatePicker!
+    
     @IBOutlet weak var containerView: UIView!
     
     @IBOutlet weak var addSelectedPlanButton: UIButton!
@@ -51,6 +53,8 @@ class SubPlanViewController: UIViewController {
         setupContainerView()
         
         setupDescriptionView()
+        
+        setupDatePicker()
         
         if let subscription = selectedSubscription {
             setPricesForSegments(subscription: subscription)
@@ -88,9 +92,9 @@ class SubPlanViewController: UIViewController {
         selectedSubscription.currentPrice = currentPrice
         selectedSubscription.currentDescription = textOfDescription
         
-        let currentDate = Date()
+        let selectedDate = datePicker.date
         
-        if let expirationDate = Calendar.current.date(byAdding: .month, value: 1, to: currentDate) {
+        if let expirationDate = Calendar.current.date(byAdding: .month, value: 1, to: selectedDate) {
             
             let dateFormatter = DateFormatter()
             
@@ -145,6 +149,22 @@ class SubPlanViewController: UIViewController {
     }
     
     // MARK: - Private Methods
+    
+    private func setupDatePicker() {
+        
+        if let oneMonthAgo = Calendar.current.date(byAdding: .month,
+                                                   value: -1,
+                                                   to: Date()) {
+            datePicker.minimumDate = oneMonthAgo
+        }
+        
+        datePicker.maximumDate = Date()
+        
+        if let datePickerLabel = datePicker.value(forKey: "textColor") as? UIColor {
+            
+            datePicker.setValue(UIColor.tabBarItemAccent, forKey: "textColor")
+                }
+    }
     
     private func isSubscriptionAlreadyAdded(subscription: Subscription) -> Bool {
         if let homeViewController = self.navigationController?.viewControllers.first as? HomeViewController {

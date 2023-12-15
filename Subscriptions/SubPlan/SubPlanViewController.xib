@@ -13,6 +13,7 @@
             <connections>
                 <outlet property="addSelectedPlanButton" destination="raZ-wJ-FEt" id="vlf-4Q-9fw"/>
                 <outlet property="containerView" destination="Jju-iB-jY0" id="XuA-Xy-RCx"/>
+                <outlet property="datePicker" destination="Rrr-zM-bYl" id="FRP-fp-LrX"/>
                 <outlet property="descriptionImage" destination="OoL-2j-SGb" id="xsH-HW-zOA"/>
                 <outlet property="descriptionLabel" destination="V8O-RU-PfD" id="Yeu-sh-bO6"/>
                 <outlet property="descriptionView" destination="MC8-35-okW" id="k64-9n-PJX"/>
@@ -30,7 +31,7 @@
                     <rect key="frame" x="0.0" y="59" width="393" height="759"/>
                     <subviews>
                         <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="50" translatesAutoresizingMaskIntoConstraints="NO" id="mbK-wL-fIW">
-                            <rect key="frame" x="0.0" y="0.0" width="393" height="422.66666666666669"/>
+                            <rect key="frame" x="0.0" y="0.0" width="393" height="582.66666666666663"/>
                             <subviews>
                                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MC8-35-okW">
                                     <rect key="frame" x="25" y="0.0" width="343" height="222.66666666666666"/>
@@ -92,8 +93,23 @@
                                         <constraint firstAttribute="bottom" secondItem="1D2-3h-xoY" secondAttribute="bottom" id="zuT-Ok-os4"/>
                                     </constraints>
                                 </view>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ykN-fP-SgN">
+                                    <rect key="frame" x="25" y="372.66666666666669" width="343" height="110"/>
+                                    <subviews>
+                                        <datePicker contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" datePickerMode="date" style="wheels" translatesAutoresizingMaskIntoConstraints="NO" id="Rrr-zM-bYl">
+                                            <rect key="frame" x="0.0" y="0.0" width="343" height="110"/>
+                                        </datePicker>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="trailing" secondItem="Rrr-zM-bYl" secondAttribute="trailing" id="OX6-Ut-ic5"/>
+                                        <constraint firstItem="Rrr-zM-bYl" firstAttribute="top" secondItem="ykN-fP-SgN" secondAttribute="top" id="UKa-WR-mQP"/>
+                                        <constraint firstItem="Rrr-zM-bYl" firstAttribute="leading" secondItem="ykN-fP-SgN" secondAttribute="leading" id="YbU-IO-MEV"/>
+                                        <constraint firstAttribute="bottom" secondItem="Rrr-zM-bYl" secondAttribute="bottom" id="ntv-Zp-bRK"/>
+                                        <constraint firstAttribute="height" constant="110" id="sSH-EQ-FfV"/>
+                                    </constraints>
+                                </view>
                                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YdP-2N-v7I">
-                                    <rect key="frame" x="25" y="372.66666666666669" width="343" height="50"/>
+                                    <rect key="frame" x="25" y="532.66666666666663" width="343" height="50"/>
                                     <subviews>
                                         <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="raZ-wJ-FEt">
                                             <rect key="frame" x="147" y="0.0" width="49" height="50"/>
@@ -119,10 +135,12 @@
                                 <constraint firstItem="YdP-2N-v7I" firstAttribute="leading" secondItem="mbK-wL-fIW" secondAttribute="leading" constant="25" id="8Ux-0d-8Dp"/>
                                 <constraint firstAttribute="trailing" secondItem="Jju-iB-jY0" secondAttribute="trailing" constant="25" id="OTF-ah-p33"/>
                                 <constraint firstAttribute="trailing" secondItem="MC8-35-okW" secondAttribute="trailing" constant="25" id="XWt-vs-cSd"/>
+                                <constraint firstItem="ykN-fP-SgN" firstAttribute="leading" secondItem="mbK-wL-fIW" secondAttribute="leading" constant="25" id="dxK-25-kab"/>
                                 <constraint firstItem="MC8-35-okW" firstAttribute="top" secondItem="mbK-wL-fIW" secondAttribute="top" id="vV9-jQ-ryj"/>
                                 <constraint firstItem="Jju-iB-jY0" firstAttribute="leading" secondItem="mbK-wL-fIW" secondAttribute="leading" constant="25" id="wvF-ba-ryS"/>
                                 <constraint firstItem="MC8-35-okW" firstAttribute="leading" secondItem="mbK-wL-fIW" secondAttribute="leading" constant="25" id="xQM-NE-YXH"/>
                                 <constraint firstAttribute="trailing" secondItem="YdP-2N-v7I" secondAttribute="trailing" constant="25" id="xvW-gD-HeD"/>
+                                <constraint firstAttribute="trailing" secondItem="ykN-fP-SgN" secondAttribute="trailing" constant="25" id="yp8-EC-dQg"/>
                             </constraints>
                         </stackView>
                     </subviews>
@@ -149,7 +167,7 @@
     <resources>
         <image name="plus.app.fill" catalog="system" width="128" height="114"/>
         <systemColor name="tintColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
