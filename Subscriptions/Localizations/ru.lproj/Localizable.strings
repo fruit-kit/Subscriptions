@@ -197,6 +197,16 @@
 "▶ 7 days free, then 4.99 US$/month" = "▶ 7 дней бесплатно, затем 4.99 долларов в месяц";
 "\n▶ Share Apple TV+ with your family" = "\n▶ Поделитесь Apple TV+ со своей семьей";
 
+// MARK: AppleArcade
+
+"▶ Free 1 month trial" = "▶ Бесплатный пробный период 1 месяц";
+"\n▶ Unlimited access to 200+ incredibly fun games, with more added all the time" = "\n▶ Неограниченный доступ к более чем 200 невероятно увлекательным играм, которые постоянно добавляются";
+"\n▶ No ads" = "\n▶ Нет рекламы";
+"\n▶ No interruptions" = "\n▶ Никаких перерывов";
+"\n▶ No in-app purchases" = "\n▶ Никаких покупок в приложении";
+"\n▶ Play online, offline, and across your favorite Apple devices" = "\n▶ Играйте онлайн, оффлайн и на своих любимых устройствах Apple";
+"\n▶ Share your subscription with up to five people" = "\n▶ Поделитесь своей подпиской с пятью людьми";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

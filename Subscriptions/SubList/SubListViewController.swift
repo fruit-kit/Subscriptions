@@ -195,16 +195,13 @@ class SubListViewController: UIViewController {
             subType: .AppleArcade,
             subPrices: [6.99],
             additionalInformation: [
-                    """
-                    
-                    - Free 1 month trial
-                    - Unlimited access to 200+ incredibly fun games, with more added all the time
-                    - No ads
-                    - No interruptions
-                    - No in-app purchases
-                    - Play online, offline, and across your favorite Apple devices
-                    - Share your subscription with up to five people
-                    """
+                "▶ Free 1 month trial".localized() +
+                "\n▶ Unlimited access to 200+ incredibly fun games, with more added all the time".localized() +
+                "\n▶ No ads".localized() +
+                "\n▶ No interruptions".localized() +
+                "\n▶ No in-app purchases".localized() +
+                "\n▶ Play online, offline, and across your favorite Apple devices".localized() +
+                "\n▶ Share your subscription with up to five people".localized()
             ]
         ),
         Subscription(
