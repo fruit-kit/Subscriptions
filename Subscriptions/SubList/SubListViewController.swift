@@ -187,11 +187,8 @@ class SubListViewController: UIViewController {
             subType: .AppleTV,
             subPrices: [4.99],
             additionalInformation: [
-                    """
-                    
-                    - 7 days free, then 4.99 US$/month
-                    - Share Apple TV+ with your family
-                    """
+                "▶ 7 days free, then 4.99 US$/month".localized() +
+                "\n▶ Share Apple TV+ with your family".localized()
             ]
         ),
         Subscription(

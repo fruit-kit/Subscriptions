@@ -192,6 +192,11 @@
 "\n▶ Personal music library for each family member" = "\n▶ Персональная музыкальная библиотека для каждого члена семьи";
 "\n▶ Personalized recommendations for each family member" = "\n▶ Персональные рекомендации для каждого члена семьи";
 
+// MARK: AppleTV
+
+"▶ 7 days free, then 4.99 US$/month" = "▶ 7 дней бесплатно, затем 4.99 долларов в месяц";
+"\n▶ Share Apple TV+ with your family" = "\n▶ Поделитесь Apple TV+ со своей семьей";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";
