@@ -22,27 +22,27 @@ class SubListViewController: UIViewController {
             additionalInformation: [
                 "Basic:".localized() +
                 "\n" +
-                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n-Watch on 1 supported device at a time".localized() +
-                "\n-Watch in HD".localized() +
-                "\n-Download on 1 supported device at a time".localized(),
+                "\n▶ Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n▶ Watch on 1 supported device at a time".localized() +
+                "\n▶ Watch in HD".localized() +
+                "\n▶ Download on 1 supported device at a time".localized(),
                                     
                 "Standard:".localized() +
                 "\n" +
-                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n-Watch on 2 supported devices at a time".localized() +
-                "\n-Watch in Full HD".localized() +
-                "\n-Download on 2 supported devices at a time".localized() +
-                "\n-Option to add 1 extra member who doesn't live with you".localized(),
+                "\n▶ Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n▶ Watch on 2 supported devices at a time".localized() +
+                "\n▶ Watch in Full HD".localized() +
+                "\n▶ Download on 2 supported devices at a time".localized() +
+                "\n▶ Option to add 1 extra member who doesn't live with you".localized(),
                                     
                 "Premium:".localized() +
                 "\n" +
-                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n-Watch on 4 supported devices at a time".localized() +
-                "\n-Watch in Ultra HD".localized() +
-                "\n-Download on 6 supported devices at a time".localized() +
-                "\n-Option to add up to 2 extra members who don't live with you".localized() +
-                "\n-Netflix spatial audio".localized()
+                "\n▶ Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n▶ Watch on 4 supported devices at a time".localized() +
+                "\n▶ Watch in Ultra HD".localized() +
+                "\n▶ Download on 6 supported devices at a time".localized() +
+                "\n▶ Option to add up to 2 extra members who don't live with you".localized() +
+                "\n▶ Netflix spatial audio".localized()
             ]
         ),
         Subscription(
@@ -51,30 +51,30 @@ class SubListViewController: UIViewController {
             additionalInformation: [
                 "Basic:".localized() +
                 "\n" +
-                "\n-100 GB of storage".localized() +
-                "\n-Access to Google experts".localized() +
-                "\n-Share with up to 5 others".localized() +
-                "\n-More Google Photos editing features".localized() +
-                "\n-Extra member benefits".localized() +
-                "\n-Monitor the dark web".localized(),
+                "\n▶ 100 GB of storage".localized() +
+                "\n▶ Access to Google experts".localized() +
+                "\n▶ Share with up to 5 others".localized() +
+                "\n▶ More Google Photos editing features".localized() +
+                "\n▶ Extra member benefits".localized() +
+                "\n▶ Monitor the dark web".localized(),
                 
                 "Standard:".localized() +
                 "\n" +
-                "\n-200 GB of storage".localized() +
-                "\n-Access to Google experts".localized() +
-                "\n-Share with up to 5 others".localized() +
-                "\n-More Google Photos editing features".localized() +
-                "\n-Extra member benefits".localized() +
-                "\n-Monitor the dark web".localized(),
+                "\n▶ 200 GB of storage".localized() +
+                "\n▶ Access to Google experts".localized() +
+                "\n▶ Share with up to 5 others".localized() +
+                "\n▶ More Google Photos editing features".localized() +
+                "\n▶ Extra member benefits".localized() +
+                "\n▶ Monitor the dark web".localized(),
                 
                 "Premium:".localized() +
                 "\n" +
-                "\n-2 TB of storage".localized() +
-                "\n-Access to Google experts".localized() +
-                "\n-Share with up to 5 others".localized() +
-                "\n-More Google Photos editing features".localized() +
-                "\n-Extra member benefits".localized() +
-                "\n-Monitor the dark web".localized()
+                "\n▶ 2 TB of storage".localized() +
+                "\n▶ Access to Google experts".localized() +
+                "\n▶ Share with up to 5 others".localized() +
+                "\n▶ More Google Photos editing features".localized() +
+                "\n▶ Extra member benefits".localized() +
+                "\n▶ Monitor the dark web".localized()
             ]
         ),
         Subscription(
@@ -83,111 +83,104 @@ class SubListViewController: UIViewController {
             additionalInformation: [
                 "iCloud+ with 50 GB storage:".localized() +
                 "\n" +
-                "\n-50 GB of storage".localized() +
-                "\n-iCloud Private Relay".localized() +
-                "\n-Hide My Email".localized() +
-                "\n-Custom Email Domain".localized() +
-                "\n-HomeKit Secure Video support for one camera".localized() +
-                "\n-Share everything with up to five other family members".localized(),
+                "\n▶ 50 GB of storage".localized() +
+                "\n▶ iCloud Private Relay".localized() +
+                "\n▶ Hide My Email".localized() +
+                "\n▶ Custom Email Domain".localized() +
+                "\n▶ HomeKit Secure Video support for one camera".localized() +
+                "\n▶ Share everything with up to five other family members".localized(),
                     
                 "iCloud+ with 200 GB storage:".localized() +
                 "\n" +
-                "\n-200 GB of storage".localized() +
-                "\n-iCloud Private Relay".localized() +
-                "\n-Hide My Email".localized() +
-                "\n-Custom Email Domain".localized() +
-                "\n-HomeKit Secure Video support for up to five cameras".localized() +
-                "\n-Share everything with up to five other family members".localized(),
+                "\n▶ 200 GB of storage".localized() +
+                "\n▶ iCloud Private Relay".localized() +
+                "\n▶ Hide My Email".localized() +
+                "\n▶ Custom Email Domain".localized() +
+                "\n▶ HomeKit Secure Video support for up to five cameras".localized() +
+                "\n▶ Share everything with up to five other family members".localized(),
                 
                 "iCloud+ with 2 TB storage:".localized() +
                 "\n" +
-                "\n-2 TB of storage".localized() +
-                "\n-iCloud Private Relay".localized() +
-                "\n-Hide My Email".localized() +
-                "\n-Custom Email Domain".localized() +
-                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
-                "\n-Share everything with up to five other family members".localized(),
+                "\n▶ 2 TB of storage".localized() +
+                "\n▶ iCloud Private Relay".localized() +
+                "\n▶ Hide My Email".localized() +
+                "\n▶ Custom Email Domain".localized() +
+                "\n▶ HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n▶ Share everything with up to five other family members".localized(),
                 
                 "iCloud+ with 6 TB storage:".localized() +
                 "\n" +
-                "\n-6 TB of storage".localized() +
-                "\n-iCloud Private Relay".localized() +
-                "\n-Hide My Email".localized() +
-                "\n-Custom Email Domain".localized() +
-                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
-                "\n-Share everything with up to five other family members".localized(),
+                "\n▶ 6 TB of storage".localized() +
+                "\n▶ iCloud Private Relay".localized() +
+                "\n▶ Hide My Email".localized() +
+                "\n▶ Custom Email Domain".localized() +
+                "\n▶ HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n▶ Share everything with up to five other family members".localized(),
                 
                 "iCloud+ with 12 TB storage:".localized() +
                 "\n" +
-                "\n-12 TB of storage".localized() +
-                "\n-iCloud Private Relay".localized() +
-                "\n-Hide My Email".localized() +
-                "\n-Custom Email Domain".localized() +
-                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
-                "\n-Share everything with up to five other family members".localized()
+                "\n▶ 12 TB of storage".localized() +
+                "\n▶ iCloud Private Relay".localized() +
+                "\n▶ Hide My Email".localized() +
+                "\n▶ Custom Email Domain".localized() +
+                "\n▶ HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n▶ Share everything with up to five other family members".localized()
             ]
         ),
         Subscription(
             subType: .AppleMusic,
             subPrices: [5.99, 10.99, 16.99],
             additionalInformation: [
-                    """
-                    
-                    Student:
-                    
-                    - 100 million songs and more than 30,000 expert-curated playlists
-                    - Request any track, album, playlist, or station simply by asking Siri or with Type to Siri
-                    - Free trial with no commitment
-                    - Stream ad-free music
-                    - Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists
-                    - Available on Apple devices
-                    - The Apple Music Classical app — featuring the largest classical catalog in the world
-                    - Available on other supported devices
-                    - Spatial Audio with Dolby Atmos
-                    - Full catalog in lossless audio
-                    - Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals
-                    - Download 100,000 songs to your library, access your entire library from any device, and listen online or off
-                    - See what your friends are listening to
-                    """,
-                    """
-                    
-                    Individual:
-                    
-                    - 100 million songs and more than 30,000 expert-curated playlists
-                    - Request any track, album, playlist, or station simply by asking Siri or with Type to Siri
-                    - Free trial with no commitment
-                    - Stream ad-free music
-                    - Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists
-                    - Available on Apple devices
-                    - The Apple Music Classical app — featuring the largest classical catalog in the world
-                    - Available on other supported devices
-                    - Spatial Audio with Dolby Atmos
-                    - Full catalog in lossless audio
-                    - Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals
-                    - Download 100,000 songs to your library, access your entire library from any device, and listen online or off
-                    - See what your friends are listening to
-                    """,
-                    """
-                    
-                    Family:
-                    
-                    - 100 million songs and more than 30,000 expert-curated playlists
-                    - Request any track, album, playlist, or station simply by asking Siri or with Type to Siri
-                    - Free trial with no commitment
-                    - Stream ad-free music
-                    - Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists
-                    - Available on Apple devices
-                    - The Apple Music Classical app — featuring the largest classical catalog in the world
-                    - Available on other supported devices
-                    - Spatial Audio with Dolby Atmos
-                    - Full catalog in lossless audio
-                    - Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals
-                    - Download 100,000 songs to your library, access your entire library from any device, and listen online or off
-                    - See what your friends are listening to
-                    - Unlimited access for up to six people
-                    - Personal music library for each family member
-                    - Personalized recommendations for each family member
-                    """
+                "Student:".localized() +
+                "\n" +
+                "\n▶ 100 million songs and more than 30,000 expert-curated playlists".localized() +
+                "\n▶ Request any track, album, playlist, or station simply by asking Siri or with Type to Siri".localized() +
+                "\n▶ Free trial with no commitment".localized() +
+                "\n▶ Stream ad-free music".localized() +
+                "\n▶ Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists".localized() +
+                "\n▶ Available on Apple devices".localized() +
+                "\n▶ The Apple Music Classical app — featuring the largest classical catalog in the world".localized() +
+                "\n▶ Available on other supported devices".localized() +
+                "\n▶ Spatial Audio with Dolby Atmos".localized() +
+                "\n▶ Full catalog in lossless audio".localized() +
+                "\n▶ Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals".localized() +
+                "\n▶ Download 100,000 songs to your library, access your entire library from any device, and listen online or off".localized() +
+                "\n▶ See what your friends are listening to".localized(),
+                
+                "Individual:".localized() +
+                "\n" +
+                "\n▶ 100 million songs and more than 30,000 expert-curated playlists".localized() +
+                "\n▶ Request any track, album, playlist, or station simply by asking Siri or with Type to Siri".localized() +
+                "\n▶ Free trial with no commitment".localized() +
+                "\n▶ Stream ad-free music".localized() +
+                "\n▶ Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists".localized() +
+                "\n▶ Available on Apple devices".localized() +
+                "\n▶ The Apple Music Classical app — featuring the largest classical catalog in the world".localized() +
+                "\n▶ Available on other supported devices".localized() +
+                "\n▶ Spatial Audio with Dolby Atmos".localized() +
+                "\n▶ Full catalog in lossless audio".localized() +
+                "\n▶ Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals".localized() +
+                "\n▶ Download 100,000 songs to your library, access your entire library from any device, and listen online or off".localized() +
+                "\n▶ See what your friends are listening to".localized(),
+                
+                "Family:".localized() +
+                "\n" +
+                "\n▶ 100 million songs and more than 30,000 expert-curated playlists".localized() +
+                "\n▶ Request any track, album, playlist, or station simply by asking Siri or with Type to Siri".localized() +
+                "\n▶ Free trial with no commitment".localized() +
+                "\n▶ Stream ad-free music".localized() +
+                "\n▶ Original shows, concerts, and exclusives — and live and on‑demand radio stations hosted by artists".localized() +
+                "\n▶ Available on Apple devices".localized() +
+                "\n▶ The Apple Music Classical app — featuring the largest classical catalog in the world".localized() +
+                "\n▶ Available on other supported devices".localized() +
+                "\n▶ Spatial Audio with Dolby Atmos".localized() +
+                "\n▶ Full catalog in lossless audio".localized() +
+                "\n▶ Apple Music Sing, with beat‑by-beat lyrics and adjustable vocals".localized() +
+                "\n▶ Download 100,000 songs to your library, access your entire library from any device, and listen online or off".localized() +
+                "\n▶ See what your friends are listening to".localized() +
+                "\n▶ Unlimited access for up to six people".localized() +
+                "\n▶ Personal music library for each family member".localized() +
+                "\n▶ Personalized recommendations for each family member".localized()
             ]
         ),
         Subscription(
