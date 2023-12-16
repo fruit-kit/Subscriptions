@@ -234,7 +234,10 @@ class SubPlanViewController: UIViewController {
         
         let currentDescription = selectedSubscription.additionalInformation[currentPriceIndex]
         
-        descriptionLabel.text = "Cost per month:".localized() + " $\(currentPrice)" + "\n\(currentDescription)"
+        descriptionLabel.text = "Cost per month:".localized() +
+        " $\(currentPrice)" +
+        "\n" +
+        "\n\(currentDescription)"
         descriptionLabel.font = .systemFont(ofSize: 20)
         descriptionLabel.textColor = .backgroundColorVC
     }

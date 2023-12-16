@@ -48,6 +48,29 @@
 "Select Subscription" = "Выбор подписки";
 "Search Subscription" = "Поиск подписки";
 
+// MARK: Netflix
+
+"Basic:" = "Базовый:";
+"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n- Watch on 1 supported device at a time" = "\n– Смотрите одновременно на одном поддерживаемом устройстве";
+"\n- Watch in HD" = "\n- Смотреть в HD";
+"\n- Download on 1 supported device at a time" = "\n- Загрузка на 1 поддерживаемое устройство одновременно";
+
+"Standard:" = "Стандарт:";
+"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n- Watch on 2 supported devices at a time" = "\n– Смотрите одновременно на двух поддерживаемых устройствах";
+"\n- Watch in Full HD" = "\n– Смотрите в формате Full HD";
+"\n- Download on 2 supported devices at a time" = "\n– Загрузка на 2 поддерживаемых устройства одновременно";
+"\n- Option to add 1 extra member who doesn't live with you" = "\n- Возможность добавить еще одного участника, который не живет с вами";
+
+"Premium:" = "Премиум:";
+"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n- Watch on 4 supported devices at a time" = "\n– Смотрите одновременно на четырех поддерживаемых устройствах";
+"\n- Watch in Ultra HD" = "\n– Смотрите в формате Ultra HD";
+"\n- Download on 6 supported devices at a time" = "\n– Загрузка на 6 поддерживаемых устройств одновременно";
+"\n- Option to add up to 2 extra members who don't live with you" = "\n- Возможность добавить до двух дополнительных участников, которые не живут с вами";
+"\n- Netflix spatial audio" = "\n- Пространственный звук Netflix";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

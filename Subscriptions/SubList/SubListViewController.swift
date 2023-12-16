@@ -19,37 +19,29 @@ class SubListViewController: UIViewController {
         Subscription(
             subType: .Netflix,
             subPrices: [4.99, 7.49, 9.99],
-            additionalInformation: [
-                    """
-                    
-                    Basic:
-                    
-                    - Unlimited ad-free movies, TV shows, and mobile games
-                    - Watch on 1 supported device at a time
-                    - Watch in HD
-                    - Download on 1 supported device at a time
-                    """,
-                    """
-                    
-                    Standard:
-                    
-                    - Unlimited ad-free movies, TV shows, and mobile games
-                    - Watch on 2 supported devices at a time
-                    - Watch in Full HD
-                    - Download on 2 supported devices at a time
-                    - Option to add 1 extra member who doesn't live with you
-                    """,
-                    """
-                    
-                    Premium:
-                    
-                    - Unlimited ad-free movies, TV shows, and mobile games
-                    - Watch on 4 supported devices at a time
-                    - Watch in Ultra HD
-                    - Download on 6 supported devices at a time
-                    - Option to add up to 2 extra members who don't live with you
-                    - Netflix spatial audio
-                    """
+            additionalInformation: ["Basic:".localized() +
+                                    "\n" +
+                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                                    "\n- Watch on 1 supported device at a time".localized() +
+                                    "\n- Watch in HD".localized() +
+                                    "\n- Download on 1 supported device at a time".localized(),
+                                    
+                                    "Standard:".localized() +
+                                    "\n" +
+                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                                    "\n- Watch on 2 supported devices at a time".localized() +
+                                    "\n- Watch in Full HD".localized() +
+                                    "\n- Download on 2 supported devices at a time".localized() +
+                                    "\n- Option to add 1 extra member who doesn't live with you".localized(),
+                                    
+                                    "Premium:".localized() +
+                                    "\n" +
+                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                                    "\n- Watch on 4 supported devices at a time".localized() +
+                                    "\n- Watch in Ultra HD".localized() +
+                                    "\n- Download on 6 supported devices at a time".localized() +
+                                    "\n- Option to add up to 2 extra members who don't live with you".localized() +
+                                    "\n- Netflix spatial audio".localized()
             ]
         ),
         Subscription(
