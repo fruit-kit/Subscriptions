@@ -51,51 +51,93 @@
 // MARK: Netflix
 
 "Basic:" = "Базовый:";
-"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
-"\n- Watch on 1 supported device at a time" = "\n– Смотрите одновременно на одном поддерживаемом устройстве";
-"\n- Watch in HD" = "\n- Смотреть в HD";
-"\n- Download on 1 supported device at a time" = "\n- Загрузка на 1 поддерживаемое устройство одновременно";
+"\n-Unlimited ad-free movies, TV shows, and mobile games" = "\n-Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n-Watch on 1 supported device at a time" = "\n-Смотрите одновременно на одном поддерживаемом устройстве";
+"\n-Watch in HD" = "\n-Смотреть в HD";
+"\n-Download on 1 supported device at a time" = "\n-Загрузка на 1 поддерживаемое устройство одновременно";
 
 "Standard:" = "Стандарт:";
-"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
-"\n- Watch on 2 supported devices at a time" = "\n– Смотрите одновременно на двух поддерживаемых устройствах";
-"\n- Watch in Full HD" = "\n– Смотрите в формате Full HD";
-"\n- Download on 2 supported devices at a time" = "\n– Загрузка на 2 поддерживаемых устройства одновременно";
-"\n- Option to add 1 extra member who doesn't live with you" = "\n- Возможность добавить еще одного участника, который не живет с вами";
+"\n-Unlimited ad-free movies, TV shows, and mobile games" = "\n-Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n-Watch on 2 supported devices at a time" = "\n-Смотрите одновременно на двух поддерживаемых устройствах";
+"\n-Watch in Full HD" = "\n-Смотрите в формате Full HD";
+"\n-Download on 2 supported devices at a time" = "\n-Загрузка на 2 поддерживаемых устройства одновременно";
+"\n-Option to add 1 extra member who doesn't live with you" = "\n-Возможность добавить еще одного участника, который не живет с вами";
 
 "Premium:" = "Премиум:";
-"\n- Unlimited ad-free movies, TV shows, and mobile games" = "\n– Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
-"\n- Watch on 4 supported devices at a time" = "\n– Смотрите одновременно на четырех поддерживаемых устройствах";
-"\n- Watch in Ultra HD" = "\n– Смотрите в формате Ultra HD";
-"\n- Download on 6 supported devices at a time" = "\n– Загрузка на 6 поддерживаемых устройств одновременно";
-"\n- Option to add up to 2 extra members who don't live with you" = "\n- Возможность добавить до двух дополнительных участников, которые не живут с вами";
-"\n- Netflix spatial audio" = "\n- Пространственный звук Netflix";
+"\n-Unlimited ad-free movies, TV shows, and mobile games" = "\n-Неограниченное количество фильмов, телешоу и мобильных игр без рекламы";
+"\n-Watch on 4 supported devices at a time" = "\n-Смотрите одновременно на четырех поддерживаемых устройствах";
+"\n-Watch in Ultra HD" = "\n-Смотрите в формате Ultra HD";
+"\n-Download on 6 supported devices at a time" = "\n-Загрузка на 6 поддерживаемых устройств одновременно";
+"\n-Option to add up to 2 extra members who don't live with you" = "\n-Возможность добавить до двух дополнительных участников, которые не живут с вами";
+"\n-Netflix spatial audio" = "\n-Пространственный звук Netflix";
 
 // MARK: Google
 
 "Basic:" = "Базовый:";
-"\n- 100 GB of storage" = "\n– 100 ГБ дискового пространства";
-"\n- Access to Google experts" = "\n– Доступ к Google experts";
-"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
-"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото" ;
-"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
-"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+"\n-100 GB of storage" = "\n-100 ГБ дискового пространства";
+"\n-Access to Google experts" = "\n-Доступ к Google experts";
+"\n-Share with up to 5 others" = "\n-Поделиться с 5 пользователями";
+"\n-More Google Photos editing features" = "\n-Дополнительные функции редактирования Google Фото" ;
+"\n-Extra member benefits" = "\n-Дополнительные преимущества для участников";
+"\n-Monitor the dark web" = "\n-Мониторинг dark web";
 
 "Standard:" = "Стандарт:";
-"\n- 200 GB of storage" = "\n– 200 ГБ дискового пространства";
-"\n- Access to Google experts" = "\n– Доступ к Google experts";
-"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
-"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото";
-"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
-"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+"\n-200 GB of storage" = "\n–200 ГБ дискового пространства";
+"\n-Access to Google experts" = "\n-Доступ к Google experts";
+"\n-Share with up to 5 others" = "\n-Поделиться с 5 пользователями";
+"\n-More Google Photos editing features" = "\n-Дополнительные функции редактирования Google Фото";
+"\n-Extra member benefits" = "\n-Дополнительные преимущества для участников";
+"\n-Monitor the dark web" = "\n-Мониторинг dark web";
 
 "Premium:" = "Премиум:";
-"\n- 2 TB of storage" = "\n– 2 ТБ дискового пространства";
-"\n- Access to Google experts" = "\n– Доступ к Google experts";
-"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
-"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото";
-"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
-"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+"\n-2 TB of storage" = "\n-2 ТБ дискового пространства";
+"\n-Access to Google experts" = "\n-Доступ к Google experts";
+"\n-Share with up to 5 others" = "\n-Поделиться с 5 пользователями";
+"\n-More Google Photos editing features" = "\n-Дополнительные функции редактирования Google Фото";
+"\n-Extra member benefits" = "\n-Дополнительные преимущества для участников";
+"\n-Monitor the dark web" = "\n-Мониторинг dark web";
+
+// MARK: iCloud
+
+"iCloud+ with 50 GB storage:" = "iCloud+ с хранилищем 50 ГБ:";
+"\n-50 GB of storage" = "\n-50 ГБ дискового пространства";
+"\n-iCloud Private Relay" = "\n-Частная ретрансляция iCloud";
+"\n-Hide My Email" = "\n-Скрыть мою электронную почту";
+"\n-Custom Email Domain" = "\n-Пользовательский домен электронной почты";
+"\n-HomeKit Secure Video support for one camera" = "\n-Поддержка HomeKit Secure Video для одной камеры";
+"\n-Share everything with up to five other family members" = "\n-Делитесь всем с пятью другими членами семьи";
+    
+"iCloud+ with 200 GB storage:" = "iCloud+ с хранилищем 200 ГБ:";
+"\n-200 GB of storage" = "\n–200 ГБ дискового пространства";
+"\n-iCloud Private Relay" = "\n-Частная ретрансляция iCloud";
+"\n-Hide My Email" = "\n-Скрыть мою электронную почту";
+"\n-Custom Email Domain" = "\n—Пользовательский домен электронной почты";
+"\n-HomeKit Secure Video support for up to five cameras" = "\n-Поддержка HomeKit Secure Video до пяти камер";
+"\n-Share everything with up to five other family members" = "\n–Делитесь всем с пятью другими членами семьи";
+
+"iCloud+ with 2 TB storage:" = "iCloud+ с хранилищем 2 ТБ:";
+"\n-2 TB of storage" = "\n–2 ТБ дискового пространства";
+"\n-iCloud Private Relay" = "\n-Частная ретрансляция iCloud";
+"\n-Hide My Email" = "\n-Скрыть мою электронную почту";
+"\n-Custom Email Domain" = "\n—Пользовательский домен электронной почты";
+"\n-HomeKit Secure Video support for an unlimited number of cameras" = "\n-Поддержка HomeKit Secure Video для неограниченного числа камер";
+"\n-Share everything with up to five other family members" = "\n–Делитесь всем с пятью другими членами семьи";
+
+"iCloud+ with 6 TB storage:" = "iCloud+ с хранилищем 6 ТБ:";
+"\n-6 TB of storage" = "\n–6 ТБ дискового пространства";
+"\n-iCloud Private Relay" = "\n-Частная ретрансляция iCloud";
+"\n-Hide My Email" = "\n-Скрыть мою электронную почту";
+"\n-Custom Email Domain" = "\n—Пользовательский домен электронной почты";
+"\n-HomeKit Secure Video support for an unlimited number of cameras" = "\n-Поддержка HomeKit Secure Video для неограниченного числа камер";
+"\n-Share everything with up to five other family members" = "\n–Делитесь всем с пятью другими членами семьи";
+
+"iCloud+ with 12 TB storage:" = "iCloud+ с хранилищем 12 ТБ:";
+"\n-12 TB of storage" = "\n–12 ТБ дискового пространства";
+"\n-iCloud Private Relay" = "\n-Частная ретрансляция iCloud";
+"\n-Hide My Email" = "\n-Скрыть мою электронную почту";
+"\n-Custom Email Domain" = "\n—Пользовательский домен электронной почты";
+"\n-HomeKit Secure Video support for an unlimited number of cameras" = "\n-Поддержка HomeKit Secure Video для неограниченного числа камер";
+"\n-Share everything with up to five other family members" = "\n–Делитесь всем с пятью другими членами семьи";
 
 // MARK: - SubPlanViewController
 

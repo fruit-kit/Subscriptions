@@ -22,27 +22,27 @@ class SubListViewController: UIViewController {
             additionalInformation: [
                 "Basic:".localized() +
                 "\n" +
-                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n- Watch on 1 supported device at a time".localized() +
-                "\n- Watch in HD".localized() +
-                "\n- Download on 1 supported device at a time".localized(),
+                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n-Watch on 1 supported device at a time".localized() +
+                "\n-Watch in HD".localized() +
+                "\n-Download on 1 supported device at a time".localized(),
                                     
                 "Standard:".localized() +
                 "\n" +
-                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n- Watch on 2 supported devices at a time".localized() +
-                "\n- Watch in Full HD".localized() +
-                "\n- Download on 2 supported devices at a time".localized() +
-                "\n- Option to add 1 extra member who doesn't live with you".localized(),
+                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n-Watch on 2 supported devices at a time".localized() +
+                "\n-Watch in Full HD".localized() +
+                "\n-Download on 2 supported devices at a time".localized() +
+                "\n-Option to add 1 extra member who doesn't live with you".localized(),
                                     
                 "Premium:".localized() +
                 "\n" +
-                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                "\n- Watch on 4 supported devices at a time".localized() +
-                "\n- Watch in Ultra HD".localized() +
-                "\n- Download on 6 supported devices at a time".localized() +
-                "\n- Option to add up to 2 extra members who don't live with you".localized() +
-                "\n- Netflix spatial audio".localized()
+                "\n-Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n-Watch on 4 supported devices at a time".localized() +
+                "\n-Watch in Ultra HD".localized() +
+                "\n-Download on 6 supported devices at a time".localized() +
+                "\n-Option to add up to 2 extra members who don't live with you".localized() +
+                "\n-Netflix spatial audio".localized()
             ]
         ),
         Subscription(
@@ -51,91 +51,80 @@ class SubListViewController: UIViewController {
             additionalInformation: [
                 "Basic:".localized() +
                 "\n" +
-                "\n- 100 GB of storage".localized() +
-                "\n- Access to Google experts".localized() +
-                "\n- Share with up to 5 others".localized() +
-                "\n- More Google Photos editing features".localized() +
-                "\n- Extra member benefits".localized() +
-                "\n- Monitor the dark web".localized(),
+                "\n-100 GB of storage".localized() +
+                "\n-Access to Google experts".localized() +
+                "\n-Share with up to 5 others".localized() +
+                "\n-More Google Photos editing features".localized() +
+                "\n-Extra member benefits".localized() +
+                "\n-Monitor the dark web".localized(),
                 
                 "Standard:".localized() +
                 "\n" +
-                "\n- 200 GB of storage".localized() +
-                "\n- Access to Google experts".localized() +
-                "\n- Share with up to 5 others".localized() +
-                "\n- More Google Photos editing features".localized() +
-                "\n- Extra member benefits".localized() +
-                "\n- Monitor the dark web".localized(),
+                "\n-200 GB of storage".localized() +
+                "\n-Access to Google experts".localized() +
+                "\n-Share with up to 5 others".localized() +
+                "\n-More Google Photos editing features".localized() +
+                "\n-Extra member benefits".localized() +
+                "\n-Monitor the dark web".localized(),
                 
                 "Premium:".localized() +
                 "\n" +
-                "\n- 2 TB of storage".localized() +
-                "\n- Access to Google experts".localized() +
-                "\n- Share with up to 5 others".localized() +
-                "\n- More Google Photos editing features".localized() +
-                "\n- Extra member benefits".localized() +
-                "\n- Monitor the dark web".localized()
+                "\n-2 TB of storage".localized() +
+                "\n-Access to Google experts".localized() +
+                "\n-Share with up to 5 others".localized() +
+                "\n-More Google Photos editing features".localized() +
+                "\n-Extra member benefits".localized() +
+                "\n-Monitor the dark web".localized()
             ]
         ),
         Subscription(
             subType: .iCloud,
             subPrices: [0.99, 2.99, 10.99, 32.99, 64.99],
             additionalInformation: [
-                    """
+                "iCloud+ with 50 GB storage:".localized() +
+                "\n" +
+                "\n-50 GB of storage".localized() +
+                "\n-iCloud Private Relay".localized() +
+                "\n-Hide My Email".localized() +
+                "\n-Custom Email Domain".localized() +
+                "\n-HomeKit Secure Video support for one camera".localized() +
+                "\n-Share everything with up to five other family members".localized(),
                     
-                    iCloud+ with 50 GB storage:
-                    
-                    - 50 GB of storage
-                    - iCloud Private Relay
-                    - Hide My Email
-                    - Custom Email Domain
-                    - HomeKit Secure Video support for one camera
-                    - Share everything with up to five other family members
-                    """,
-                    """
-                    
-                    iCloud+ with 200 GB storage:
-                    
-                    - 200 GB of storage
-                    - iCloud Private Relay
-                    - Hide My Email
-                    - Custom Email Domain
-                    - HomeKit Secure Video support for up to five cameras
-                    - Share everything with up to five other family members
-                    """,
-                    """
-                    
-                    iCloud+ with 2 TB storage:
-                    
-                    - 2 TB of storage
-                    - iCloud Private Relay
-                    - Hide My Email
-                    - Custom Email Domain
-                    - HomeKit Secure Video support for an unlimited number of cameras
-                    - Share everything with up to five other family members
-                    """,
-                    """
-                    
-                    iCloud+ with 6 TB storage:
-                    
-                    - 6 TB of storage
-                    - iCloud Private Relay
-                    - Hide My Email
-                    - Custom Email Domain
-                    - HomeKit Secure Video support for an unlimited number of cameras
-                    - Share everything with up to five other family members
-                    """,
-                    """
-                    
-                    iCloud+ with 12 TB storage:
-                    
-                    - 12 TB of storage
-                    - iCloud Private Relay
-                    - Hide My Email
-                    - Custom Email Domain
-                    - HomeKit Secure Video support for an unlimited number of cameras
-                    - Share everything with up to five other family members
-                    """
+                "iCloud+ with 200 GB storage:".localized() +
+                "\n" +
+                "\n-200 GB of storage".localized() +
+                "\n-iCloud Private Relay".localized() +
+                "\n-Hide My Email".localized() +
+                "\n-Custom Email Domain".localized() +
+                "\n-HomeKit Secure Video support for up to five cameras".localized() +
+                "\n-Share everything with up to five other family members".localized(),
+                
+                "iCloud+ with 2 TB storage:".localized() +
+                "\n" +
+                "\n-2 TB of storage".localized() +
+                "\n-iCloud Private Relay".localized() +
+                "\n-Hide My Email".localized() +
+                "\n-Custom Email Domain".localized() +
+                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n-Share everything with up to five other family members".localized(),
+                
+                "iCloud+ with 6 TB storage:".localized() +
+                "\n" +
+                "\n-6 TB of storage".localized() +
+                "\n-iCloud Private Relay".localized() +
+                "\n-Hide My Email".localized() +
+                "\n-Custom Email Domain".localized() +
+                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n-Share everything with up to five other family members".localized(),
+                
+                "iCloud+ with 12 TB storage:".localized() +
+                "\n" +
+                "\n-12 TB of storage".localized() +
+                "\n-iCloud Private Relay".localized() +
+                "\n-Hide My Email".localized() +
+                "\n-Custom Email Domain".localized() +
+                "\n-HomeKit Secure Video support for an unlimited number of cameras".localized() +
+                "\n-Share everything with up to five other family members".localized()
             ]
         ),
         Subscription(
