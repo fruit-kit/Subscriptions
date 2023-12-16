@@ -71,6 +71,32 @@
 "\n- Option to add up to 2 extra members who don't live with you" = "\n- Возможность добавить до двух дополнительных участников, которые не живут с вами";
 "\n- Netflix spatial audio" = "\n- Пространственный звук Netflix";
 
+// MARK: Google
+
+"Basic:" = "Базовый:";
+"\n- 100 GB of storage" = "\n– 100 ГБ дискового пространства";
+"\n- Access to Google experts" = "\n– Доступ к Google experts";
+"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
+"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото" ;
+"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
+"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+
+"Standard:" = "Стандарт:";
+"\n- 200 GB of storage" = "\n– 200 ГБ дискового пространства";
+"\n- Access to Google experts" = "\n– Доступ к Google experts";
+"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
+"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото";
+"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
+"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+
+"Premium:" = "Премиум:";
+"\n- 2 TB of storage" = "\n– 2 ТБ дискового пространства";
+"\n- Access to Google experts" = "\n– Доступ к Google experts";
+"\n- Share with up to 5 others" = "\n- Поделиться с 5 пользователями";
+"\n- More Google Photos editing features" = "\n– Дополнительные функции редактирования Google Фото";
+"\n- Extra member benefits" = "\n- Дополнительные преимущества для участников";
+"\n- Monitor the dark web" = "\n- Мониторинг dark web";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

@@ -162,7 +162,7 @@ class SubPlanViewController: UIViewController {
         
         if let datePickerLabel = datePicker.value(forKey: "textColor") as? UIColor {
             
-            datePicker.setValue(UIColor.tabBarItemAccent, forKey: "textColor")
+            datePicker.setValue(UIColor.colorTitleVC, forKey: "textColor")
                 }
     }
     

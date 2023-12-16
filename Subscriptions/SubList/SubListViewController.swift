@@ -19,68 +19,62 @@ class SubListViewController: UIViewController {
         Subscription(
             subType: .Netflix,
             subPrices: [4.99, 7.49, 9.99],
-            additionalInformation: ["Basic:".localized() +
-                                    "\n" +
-                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                                    "\n- Watch on 1 supported device at a time".localized() +
-                                    "\n- Watch in HD".localized() +
-                                    "\n- Download on 1 supported device at a time".localized(),
+            additionalInformation: [
+                "Basic:".localized() +
+                "\n" +
+                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n- Watch on 1 supported device at a time".localized() +
+                "\n- Watch in HD".localized() +
+                "\n- Download on 1 supported device at a time".localized(),
                                     
-                                    "Standard:".localized() +
-                                    "\n" +
-                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                                    "\n- Watch on 2 supported devices at a time".localized() +
-                                    "\n- Watch in Full HD".localized() +
-                                    "\n- Download on 2 supported devices at a time".localized() +
-                                    "\n- Option to add 1 extra member who doesn't live with you".localized(),
+                "Standard:".localized() +
+                "\n" +
+                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n- Watch on 2 supported devices at a time".localized() +
+                "\n- Watch in Full HD".localized() +
+                "\n- Download on 2 supported devices at a time".localized() +
+                "\n- Option to add 1 extra member who doesn't live with you".localized(),
                                     
-                                    "Premium:".localized() +
-                                    "\n" +
-                                    "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
-                                    "\n- Watch on 4 supported devices at a time".localized() +
-                                    "\n- Watch in Ultra HD".localized() +
-                                    "\n- Download on 6 supported devices at a time".localized() +
-                                    "\n- Option to add up to 2 extra members who don't live with you".localized() +
-                                    "\n- Netflix spatial audio".localized()
+                "Premium:".localized() +
+                "\n" +
+                "\n- Unlimited ad-free movies, TV shows, and mobile games".localized() +
+                "\n- Watch on 4 supported devices at a time".localized() +
+                "\n- Watch in Ultra HD".localized() +
+                "\n- Download on 6 supported devices at a time".localized() +
+                "\n- Option to add up to 2 extra members who don't live with you".localized() +
+                "\n- Netflix spatial audio".localized()
             ]
         ),
         Subscription(
             subType: .Google,
             subPrices: [1.99, 2.99, 9.99],
             additionalInformation: [
-                    """
-                    
-                    Basic:
-                    
-                    - 100 GB of storage
-                    - Access to Google experts
-                    - Share with up to 5 others
-                    - More Google Photos editing features
-                    - Extra member benefits
-                    - Monitor the dark web
-                    """,
-                    """
-                    
-                    Standard:
-                    
-                    - 200 GB of storage
-                    - Access to Google experts
-                    - Share with up to 5 others
-                    - More Google Photos editing features
-                    - Extra member benefits
-                    - Monitor the dark web
-                    """,
-                    """
-                    
-                    Premium:
-                    
-                    - 2 TB of storage
-                    - Access to Google experts
-                    - Share with up to 5 others
-                    - More Google Photos editing features
-                    - Extra member benefits
-                    - Monitor the dark web
-                    """
+                "Basic:".localized() +
+                "\n" +
+                "\n- 100 GB of storage".localized() +
+                "\n- Access to Google experts".localized() +
+                "\n- Share with up to 5 others".localized() +
+                "\n- More Google Photos editing features".localized() +
+                "\n- Extra member benefits".localized() +
+                "\n- Monitor the dark web".localized(),
+                
+                "Standard:".localized() +
+                "\n" +
+                "\n- 200 GB of storage".localized() +
+                "\n- Access to Google experts".localized() +
+                "\n- Share with up to 5 others".localized() +
+                "\n- More Google Photos editing features".localized() +
+                "\n- Extra member benefits".localized() +
+                "\n- Monitor the dark web".localized(),
+                
+                "Premium:".localized() +
+                "\n" +
+                "\n- 2 TB of storage".localized() +
+                "\n- Access to Google experts".localized() +
+                "\n- Share with up to 5 others".localized() +
+                "\n- More Google Photos editing features".localized() +
+                "\n- Extra member benefits".localized() +
+                "\n- Monitor the dark web".localized()
             ]
         ),
         Subscription(
