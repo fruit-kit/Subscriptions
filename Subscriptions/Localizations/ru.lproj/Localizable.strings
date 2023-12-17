@@ -209,7 +209,7 @@
 
 // MARK: AppleNews
 
-"\n▶ AppleNews (Always free):" = "\n▶ AppleNews (всегда бесплатно):";
+"AppleNews (Always free):" = "AppleNews (всегда бесплатно):";
 "\n▶ Top stories chosen by editors, personalized for you" = "\n▶ Лучшие новости, выбранные редакторами и персонализированные для вас";
 "\n▶ My Sports with scores, standings, and highlights" = "\n▶ My Sports с результатами, турнирной таблицей и лучшими моментами";
 "\n▶ Apple News Today and In Conversation 🎧" = "\n▶ Новости Apple сегодня и в разговоре 🎧";
@@ -232,6 +232,15 @@
 "\n▶ Reading online and off across devices" = "\n▶ Чтение онлайн и оффлайн на разных устройствах";
 "\n▶ Cover-to-cover magazines" = "\n▶ Журналы от корки до корки";
 "\n▶ Family Sharing for up to six" = "\n▶ Семейный доступ до шести человек";
+
+// MARK: AppleFitness
+
+"▶ 1 month free" = "▶ 1 месяц бесплатно";
+"\n▶ Find it in the Fitness app. Available with iPhone, iPad, Apple TV, and Apple Watch" = "\n▶ Найдите его в приложении «Фитнес». Доступно для iPhone, iPad, Apple TV и Apple Watch";
+"\n▶ 12 workout types, everything from HIIT to Yoga. Meditation, too" = "\n▶ 12 типов тренировок: от HIIT до йоги и медитации";
+"\n▶ From beginner to advanced. And 5 to 45 minutes" = "\n▶ От новичка до продвинутого уровня. И от 5 до 45 минут";
+"\n▶ Custom Plans automatically built for you" = "\n▶ Индивидуальные планы, автоматически создаваемые для вас";
+"\n▶ Supercharge your experience with real-time metrics from Apple Watch" = "\n▶ Улучшите свой опыт с помощью показателей в реальном времени от Apple Watch.";
 
 // MARK: - SubPlanViewController
 

@@ -208,7 +208,7 @@ class SubListViewController: UIViewController {
             subType: .AppleNews,
             subPrices: [0.00, 12.99],
             additionalInformation: [
-                "\n▶ AppleNews (Always free):".localized() +
+                "AppleNews (Always free):".localized() +
                 "\n" +
                 "\n▶ Top stories chosen by editors, personalized for you".localized() +
                 "\n▶ My Sports with scores, standings, and highlights".localized() +
@@ -239,15 +239,12 @@ class SubListViewController: UIViewController {
             subType: .AppleFitness,
             subPrices: [9.99],
             additionalInformation: [
-                    """
-                    
-                    - 1 month free
-                    - Find it in the Fitness app. Available with iPhone, iPad, Apple TV, and Apple Watch.
-                    - 12 workout types, everything from HIIT to Yoga. Meditation, too.
-                    - From beginner to advanced. And 5 to 45 minutes.
-                    - Custom Plans automatically built for you.
-                    - Supercharge your experience with real-time metrics from Apple Watch.
-                    """
+                "▶ 1 month free".localized() +
+                "\n▶ Find it in the Fitness app. Available with iPhone, iPad, Apple TV, and Apple Watch".localized() +
+                "\n▶ 12 workout types, everything from HIIT to Yoga. Meditation, too".localized() +
+                "\n▶ From beginner to advanced. And 5 to 45 minutes".localized() +
+                "\n▶ Custom Plans automatically built for you".localized() +
+                "\n▶ Supercharge your experience with real-time metrics from Apple Watch".localized()
             ]
         ),
         Subscription(
