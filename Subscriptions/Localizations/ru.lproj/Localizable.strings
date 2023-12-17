@@ -242,6 +242,20 @@
 "\n▶ Custom Plans automatically built for you" = "\n▶ Индивидуальные планы, автоматически создаваемые для вас";
 "\n▶ Supercharge your experience with real-time metrics from Apple Watch" = "\n▶ Улучшите свой опыт с помощью показателей в реальном времени от Apple Watch.";
 
+// MARK: AppleOne
+
+"Individual:" = "Индивидуальный:";
+"\n▶ iCloud+ 50 GB ($0.99/mo.)" = "\n▶ iCloud+ 50 ГБ ($0.99 в месяц)";
+"\n▶ TV+ ($6.99/mo.)" = "\n▶ TV+ ($6.99 в месяц)";
+"\n▶ Music ($6.49/mo.)" = "\n▶ Музыка ($6.49 в месяц)";
+"\n▶ Arcade ($6.99/mo.)" = "\n▶ Arcade ($6.99 в месяц)";
+
+"Family:" = "Семейный:";
+"\n▶ iCloud+ 200 GB ($2.99/mo.)" = "\n▶ iCloud+ 200 ГБ ($2.99 в месяц)";
+"\n▶ TV+ ($6.99/mo.)" = "\n▶ TV+ ($6.99 в месяц)";
+"\n▶ Music ($9.99/mo.)" = "\n▶ Музыка ($9.99 в месяц)";
+"\n▶ Arcade ($6.99/mo.)" = "\n▶ Arcade ($6.99 в месяц)";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

@@ -251,24 +251,19 @@ class SubListViewController: UIViewController {
             subType: .AppleOne,
             subPrices: [12.95, 16.95],
             additionalInformation: [
-                    """
+                "Individual:".localized() +
+                "\n" +
+                "\n▶ iCloud+ 50 GB ($0.99/mo.)".localized() +
+                "\n▶ TV+ ($6.99/mo.)".localized() +
+                "\n▶ Music ($6.49/mo.)".localized() +
+                "\n▶ Arcade ($6.99/mo.)".localized(),
                     
-                    Individual:
-                    
-                    - iCloud+ 50 GB ($0.99/mo.)
-                    - TV+ ($6.99/mo.)
-                    - Music ($6.49/mo.)
-                    - Arcade ($6.99/mo.)
-                    """,
-                    """
-                    
-                    Family:
-                    
-                    - iCloud+ 200 GB ($2.99/mo.)
-                    - TV+ ($6.99/mo.)
-                    - Music ($9.99/mo.)
-                    - Arcade ($6.99/mo.)
-                    """
+                "Family:".localized() +
+                "\n" +
+                "\n▶ iCloud+ 200 GB ($2.99/mo.)".localized() +
+                "\n▶ TV+ ($6.99/mo.)".localized() +
+                "\n▶ Music ($9.99/mo.)".localized() +
+                "\n▶ Arcade ($6.99/mo.)".localized()
             ]
         ),
         Subscription(
