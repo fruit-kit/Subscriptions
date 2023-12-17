@@ -351,6 +351,54 @@
 "\n▶ Lack of advertising does not apply to TV channels" = "\n▶ Отсутствие рекламы не распространяется на телеканалы";
 "\n▶ Downloading to mobile more than 10,000 TV series and movies" = "\n▶ Загрузка на мобильный более 10 000 сериалов и фильмов";
 
+// MARK: Megogo
+
+"\nLight:" = "\nПростой:";
+"\n▶ Number of TV channels 290" = "\n▶ Количество телеканалов 290";
+"\nMOVIES, SERIES, CARTOONS" = "\nФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
+"\n▶ Number of movies 10000+" = "\n▶ Количество фильмов 10000+";
+"\n▶ 10% off on premieres" = "\n▶ Скидка 10% на премьеры";
+"\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads" = "\n▶ Коллекция фильмов, сериалов и мультфильмов в формате Full HD, HDR, 3D, 4K без рекламы";
+"\nCHANNELS" = "\nКАНАЛЫ";
+"\n▶ Sports Channels" = "\n▶ Спортивные каналы";
+"\n▶ Educational channels: Discovery, History HD, MEGA HD" = "\n▶ Образовательные каналы: Discovery, History HD, MEGA HD";
+"\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD" = "\n▶ Киноканалы Comedy Central, [M] FILMBOX, COMEDY HD";
+"\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
+"\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
+
+"\nOptimal:" = "\nОптимальный:";
+"\n▶ Number of TV channels 380" = "\n▶ Количество телеканалов 380";
+"\nMOVIES, SERIES, CARTOONS" = "\nФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
+"\n▶ Number of movies 11000+" = "\n▶ Количество фильмов 11000+";
+"\n▶ 10% off on premieres" = "\n▶ Скидка 10% на премьеры";
+"\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads" = "\n▶ Коллекция фильмов, сериалов и мультфильмов в формате Full HD, HDR, 3D, 4K без рекламы";
+"\n▶ Paramount+ movie collection" = "\n▶ Коллекция фильмов Paramount+";
+"\nCHANNELS" = "\nКАНАЛЫ";
+"\n▶ Sports Channels" = "\n▶ Спортивные каналы";
+"\n▶ Educational channels: Discovery, History HD, MEGA HD" = "\n▶ Образовательные каналы: Discovery, History HD, MEGA HD";
+"\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD" = "\n▶ Киноканалы Comedy Central, FILMBOX, [M] COMEDY HD";
+"\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others" = "\n▶ Премиум-каналы Viasat, Cine+, FOX, Eurosport и другие";
+"\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji" = "\n▶ Премиум-каналы для детей: Nickelodeon, Nick Jr., Tiji.";
+"\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
+"\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
+
+"\nMaximal:" = "\nМаксимальный:";
+"\n▶ Number of TV channels 405" = "\n▶ Количество телеканалов 405";
+"\nMOVIES, SERIES, CARTOONS" = "\ФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
+"\n▶ Number of movies 15000+" = "\n▶ Количество фильмов 15000+";
+"\n▶ 10% off on premieres" = "\n▶ Скидка 10% на премьеры";
+"\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads" = "\n▶ Коллекция фильмов, сериалов и мультфильмов в формате Full HD, HDR, 3D, 4K без рекламы";
+"\n▶ Paramount+ movie collection" = "\n▶ Коллекция фильмов Paramount+";
+"\n▶ HBO's top series: \"The Last of Us\", \"Game of Thrones\", \"Euphoria\", and others" = "\n▶ Лучшие сериалы HBO: «Последние из нас», «Игра престолов», «Эйфория» и другие";
+"\nCHANNELS" = "\nКАНАЛЫ";
+"\n▶ Sports Channels" = "\n▶ Спортивные каналы";
+"\n▶ Educational channels: Discovery, History HD, MEGA HD" = "\n▶ Образовательные каналы: Discovery, History HD, MEGA HD";
+"\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD" = "\n▶ Киноканалы Comedy Central, FILMBOX, [M] COMEDY HD";
+"\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others" = "\n▶ Премиум-каналы Viasat, Cine+, FOX, Eurosport и другие";
+"\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji" = "\n▶ Премиум-каналы для детей: Nickelodeon, Nick Jr., Tiji";
+"\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
+"\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

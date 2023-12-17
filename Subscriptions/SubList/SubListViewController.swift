@@ -391,91 +391,63 @@ class SubListViewController: UIViewController {
             subType: .Megogo,
             subPrices: [2.69, 2.99, 5.49],
             additionalInformation: [
-                    """
+                "\nLight:".localized() +
+                    "\n" +
+                    "\n▶ Number of TV channels 290".localized() +
+                    "\n" +
+                    "\nMOVIES, SERIES, CARTOONS".localized() +
+                    "\n▶ Number of movies 10000+".localized() +
+                    "\n▶ 10% off on premieres".localized() +
+                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                    "\n" +
+                    "\nCHANNELS".localized() +
+                    "\n▶ Sports Channels".localized() +
+                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                    "\n" +
+                    "\nAUDIOBOOKS AND PODCASTS".localized() +
+                    "\n▶ More than 900 audiobooks in the mobile app".localized(),
                     
-                    Light:
+                    "\nOptimal:".localized() +
+                    "\n" +
+                    "\n▶ Number of TV channels 380".localized() +
+                    "\n" +
+                    "\nMOVIES, SERIES, CARTOONS".localized() +
+                    "\n▶ Number of movies 11000+".localized() +
+                    "\n▶ 10% off on premieres".localized() +
+                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                    "\n▶ Paramount+ movie collection".localized() +
+                    "\n" +
+                    "\nCHANNELS".localized() +
+                    "\n▶ Sports Channels".localized() +
+                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                    "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
+                    "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
+                    "\n" +
+                    "\nAUDIOBOOKS AND PODCASTS".localized() +
+                    "\n▶ More than 900 audiobooks in the mobile app".localized(),
                     
-                    - Number of TV channels 290
-                    
-                    MOVIES, SERIES, CARTOONS
-                    - Number of movies 10000+
-                    - 10% off on premieres
-                    - Collection of movies, series, and
-                    cartoons in Full HD, HDR, 3D, 4K
-                    without ads
-                    
-                    CHANNELS
-                    - Sports Channels
-                    - Educational channels:
-                    Discovery, History HD, MEGA HD
-                    - Movie channels Comedy Central,
-                    FILMBOX, [M] COMEDY HD
-                    
-                    AUDIOBOOKS AND PODCASTS
-                    - More than 900 audiobooks in
-                    the mobile app
-                    """,
-                    """
-                    
-                    Optimal:
-                    
-                    - Number of TV channels 380
-                    
-                    MOVIES, SERIES, CARTOONS
-                    - Number of movies 11000+
-                    - 10% off on premieres
-                    - Collection of movies, series, and
-                    cartoons in Full HD, HDR, 3D, 4K
-                    without ads
-                    - Paramount+ movie collection
-                    
-                    CHANNELS
-                    - Sports Channels
-                    - Educational channels:
-                    Discovery, History HD, MEGA HD
-                    - Movie channels Comedy Central,
-                    FILMBOX, [M] COMEDY HD
-                    - Premium channels Viasat, Cine+,
-                    FOX, Eurosport and others
-                    - Premium channels for children:
-                    Nickelodeon, Nick Jr., Tiji
-                    
-                    AUDIOBOOKS AND PODCASTS
-                    - More than 900 audiobooks in
-                    the mobile app
-                    """,
-                    """
-                    
-                    Maximal:
-                    
-                    - Number of TV channels 405
-                    
-                    MOVIES, SERIES, CARTOONS
-                    - Number of movies 15000+
-                    - 10% off on premieres
-                    - Collection of movies, series, and
-                    cartoons in Full HD, HDR, 3D, 4K
-                    without ads
-                    - Paramount+ movie collection
-                    - HBO's top series: "The Last of Us",
-                    "Game of Thrones", "Euphoria",
-                    and others
-                    
-                    CHANNELS
-                    - Sports Channels
-                    - Educational channels:
-                    Discovery, History HD, MEGA HD
-                    - Movie channels Comedy Central,
-                    FILMBOX, [M] COMEDY HD
-                    - Premium channels Viasat, Cine+,
-                    FOX, Eurosport and others
-                    - Premium channels for children:
-                    Nickelodeon, Nick Jr., Tiji
-                    
-                    AUDIOBOOKS AND PODCASTS
-                    - More than 900 audiobooks in
-                    the mobile app
-                    """
+                    "\nMaximal:".localized() +
+                    "\n" +
+                    "\n▶ Number of TV channels 405".localized() +
+                    "\n" +
+                    "\nMOVIES, SERIES, CARTOONS".localized() +
+                    "\n▶ Number of movies 15000+".localized() +
+                    "\n▶ 10% off on premieres".localized() +
+                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                    "\n▶ Paramount+ movie collection".localized() +
+                    "\n▶ HBO's top series: \"The Last of Us\", \"Game of Thrones\", \"Euphoria\", and others".localized() +
+                    "\n" +
+                    "\nCHANNELS".localized() +
+                    "\n▶ Sports Channels".localized() +
+                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                    "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
+                    "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
+                    "\n" +
+                    "\nAUDIOBOOKS AND PODCASTS".localized() +
+                    "\n▶ More than 900 audiobooks in the mobile app".localized()
             ]
         ),
         Subscription(
