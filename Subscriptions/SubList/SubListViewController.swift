@@ -297,76 +297,64 @@ class SubListViewController: UIViewController {
             subType: .XboxGamePass,
             subPrices: [9.99, 16.99],
             additionalInformation: [
-                    """
-                    
-                    PC:
-                    
-                    - Get your first 14 days for $1, then $9.99/mo.
-                    - Hundreds of high-quality games on PC
-                    - New games on day one
-                    - Member deals & discounts
-                    - EA Play membership
-                    """,
-                    """
-                    
-                    Ultimate:
-                    
-                    - Get your first 14 days for $1, then $16.99/mo.
-                    - Hundreds of high-quality games on console, PC, and cloud
-                    - New games on day one
-                    - Member deals, discounts, and Perks
-                    - Online console multiplayer
-                    - EA Play membership
-                    """
+                "PC:".localized() +
+                "\n" +
+                "\n▶ Get your first 14 days for $1, then $9.99/mo.".localized() +
+                "\n▶ Hundreds of high-quality games on PC".localized() +
+                "\n▶ New games on day one".localized() +
+                "\n▶ Member deals & discounts".localized() +
+                "\n▶ EA Play membership".localized(),
+                
+                "Ultimate:".localized() +
+                "\n" +
+                "\n▶ Get your first 14 days for $1, then $16.99/mo.".localized() +
+                "\n▶ Hundreds of high-quality games on console, PC, and cloud".localized() +
+                "\n▶ New games on day one".localized() +
+                "\n▶ Member deals, discounts, and Perks".localized() +
+                "\n▶ Online console multiplayer".localized() +
+                "\n▶ EA Play membership".localized()
             ]
         ),
         Subscription(
             subType: .PlayStationNow,
             subPrices: [9.99, 14.99, 17.99],
             additionalInformation: [
-                    """
+                "Essential:".localized() +
+                "\n" +
+                "\n▶ Monthly games".localized() +
+                "\n▶ Online multiplayer".localized() +
+                "\n▶ Exclusive discounts".localized() +
+                "\n▶ Exclusive content".localized() +
+                "\n▶ Cloud storage".localized() +
+                "\n▶ Share Play".localized() +
+                "\n▶ Game Help".localized(),
                     
-                    Essential:
+                "Extra:".localized() +
+                "\n" +
+                "\n▶ Monthly games".localized() +
+                "\n▶ Online multiplayer".localized() +
+                "\n▶ Exclusive discounts".localized() +
+                "\n▶ Exclusive content".localized() +
+                "\n▶ Cloud storage".localized() +
+                "\n▶ Share Play".localized() +
+                "\n▶ Game Help".localized() +
+                "\n▶ Game Catalog".localized() +
+                "\n▶ Ubisoft+ Classics".localized(),
                     
-                    - Monthly games
-                    - Online multiplayer
-                    - Exclusive discounts
-                    - Exclusive content
-                    - Cloud storage
-                    - Share Play
-                    - Game Help
-                    """,
-                    """
-                    
-                    Extra:
-                    
-                    - Monthly games
-                    - Online multiplayer
-                    - Exclusive discounts
-                    - Exclusive content
-                    - Cloud storage
-                    - Share Play
-                    - Game Help
-                    - Game Catalog
-                    - Ubisoft+ Classics
-                    """,
-                    """
-                    
-                    Premium:
-                    
-                    - Monthly games
-                    - Online multiplayer
-                    - Exclusive discounts
-                    - Exclusive content
-                    - Cloud storage
-                    - Share Play
-                    - Game Help
-                    - Game Catalog
-                    - Ubisoft+ Classics
-                    - Classics Catalog
-                    - Game trials
-                    - Cloud streaming
-                    """
+                "Premium:".localized() +
+                "\n" +
+                "\n▶ Monthly games".localized() +
+                "\n▶ Online multiplayer".localized() +
+                "\n▶ Exclusive discounts".localized() +
+                "\n▶ Exclusive content".localized() +
+                "\n▶ Cloud storage".localized() +
+                "\n▶ Share Play".localized() +
+                "\n▶ Game Help".localized() +
+                "\n▶ Game Catalog".localized() +
+                "\n▶ Ubisoft+ Classics".localized() +
+                "\n▶ Classics Catalog".localized() +
+                "\n▶ Game trials".localized() +
+                "\n▶ Cloud streaming".localized()
             ]
         ),
         Subscription(

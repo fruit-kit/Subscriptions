@@ -276,6 +276,59 @@
 "\n▶ Blocking music with age restrictions" = "\n▶ Блокировка музыки с возрастными ограничениями";
 "\n▶ Cancel anytime" = "\n▶ Отменить в любое время";
 
+// MARK: XboxGamePass
+
+"PC:" = "ПК:";
+"\n▶ Get your first 14 days for $1, then $9.99/mo." = "\n▶ Получите первые 14 дней за 1 доллар, а затем за 9,99 долларов в месяц.";
+"\n▶ Hundreds of high-quality games on PC" = "\n▶ Сотни высококачественных игр на ПК";
+"\n▶ New games on day one" = "\n▶ Новые игры в первый день";
+"\n▶ Member deals & discounts" = "\n▶ Предложения и скидки для участников";
+"\n▶ EA Play membership" = "\n▶ Членство в EA Play";
+
+"Ultimate:" = "Окончательный:";
+"\n▶ Get your first 14 days for $1, then $16.99/mo." = "\n▶ Получите первые 14 дней за 1 доллар, а затем за 16,99 долларов в месяц.";
+"\n▶ Hundreds of high-quality games on console, PC, and cloud" = "\n▶ Сотни высококачественных игр на консоли, ПК и в облаке";
+"\n▶ New games on day one" = "\n▶ Новые игры в первый день";
+"\n▶ Member deals, discounts, and Perks" = "\n▶ Предложения для участников, скидки и привилегии";
+"\n▶ Online console multiplayer" = "\n▶ Многопользовательская онлайн-консоль";
+"\n▶ EA Play membership" = "\n▶ Членство в EA Play";
+
+// MARK: PlayStationNow
+
+"Essential:" = "Существенный:";
+"\n▶ Monthly games" = "\n▶ Ежемесячные игры";
+"\n▶ Online multiplayer" = "\n▶ Многопользовательская игра онлайн";
+"\n▶ Exclusive discounts" = "\n▶ Эксклюзивные скидки";
+"\n▶ Exclusive content" = "\n▶ Эксклюзивный контент";
+"\n▶ Cloud storage" = "\n▶ Облачное хранилище";
+"\n▶ Share Play" = "\n▶ Поделиться игрой";
+"\n▶ Game Help" = "\n▶ Справка по игре";
+
+"Extra:" = "Дополнительный:";
+"\n▶ Monthly games" = "\n▶ Ежемесячные игры";
+"\n▶ Online multiplayer" = "\n▶ Многопользовательская игра онлайн";
+"\n▶ Exclusive discounts" = "\n▶ Эксклюзивные скидки";
+"\n▶ Exclusive content" = "\n▶ Эксклюзивный контент";
+"\n▶ Cloud storage" = "\n▶ Облачное хранилище";
+"\n▶ Share Play" = "\n▶ Поделиться игрой";
+"\n▶ Game Help" = "\n▶ Справка по игре";
+"\n▶ Game Catalog" = "\n▶ Каталог игр";
+"\n▶ Ubisoft+ Classics" = "\n▶ Классика Ubisoft+";
+
+"Premium:" = "Премиум:";
+"\n▶ Monthly games" = "\n▶ Ежемесячные игры";
+"\n▶ Online multiplayer" = "\n▶ Многопользовательская игра онлайн";
+"\n▶ Exclusive discounts" = "\n▶ Эксклюзивные скидки";
+"\n▶ Exclusive content" = "\n▶ Эксклюзивный контент";
+"\n▶ Cloud storage" = "\n▶ Облачное хранилище";
+"\n▶ Share Play" = "\n▶ Поделиться игрой";
+"\n▶ Game Help" = "\n▶ Справка по игре";
+"\n▶ Game Catalog" = "\n▶ Каталог игр";
+"\n▶ Ubisoft+ Classics" = "\n▶ Классика Ubisoft+";
+"\n▶ Classics Catalog" = "\n▶ Каталог классики";
+"\n▶ Game trials" = "\n▶ Пробные игры";
+"\n▶ Cloud streaming" = "\n▶ Облачная трансляция";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";
