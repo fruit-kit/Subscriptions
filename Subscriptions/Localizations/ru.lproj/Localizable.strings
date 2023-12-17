@@ -353,7 +353,7 @@
 
 // MARK: Megogo
 
-"\nLight:" = "\nПростой:";
+"Light:" = "Простой:";
 "\n▶ Number of TV channels 290" = "\n▶ Количество телеканалов 290";
 "\nMOVIES, SERIES, CARTOONS" = "\nФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
 "\n▶ Number of movies 10000+" = "\n▶ Количество фильмов 10000+";
@@ -366,7 +366,7 @@
 "\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
 "\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
 
-"\nOptimal:" = "\nОптимальный:";
+"Optimal:" = "Оптимальный:";
 "\n▶ Number of TV channels 380" = "\n▶ Количество телеканалов 380";
 "\nMOVIES, SERIES, CARTOONS" = "\nФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
 "\n▶ Number of movies 11000+" = "\n▶ Количество фильмов 11000+";
@@ -382,7 +382,7 @@
 "\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
 "\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
 
-"\nMaximal:" = "\nМаксимальный:";
+"Maximal:" = "Максимальный:";
 "\n▶ Number of TV channels 405" = "\n▶ Количество телеканалов 405";
 "\nMOVIES, SERIES, CARTOONS" = "\ФИЛЬМЫ, СЕРИАЛЫ, МУЛЬТФИЛЬМЫ";
 "\n▶ Number of movies 15000+" = "\n▶ Количество фильмов 15000+";
@@ -398,6 +398,20 @@
 "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji" = "\n▶ Премиум-каналы для детей: Nickelodeon, Nick Jr., Tiji";
 "\nAUDIOBOOKS AND PODCASTS" = "\nАУДИОКНИГИ И ПОДКАСТЫ";
 "\n▶ More than 900 audiobooks in the mobile app" = "\n▶ Более 900 аудиокниг в мобильном приложении";
+
+// MARK: YouTube
+
+"Student:" = "Студент:";
+"\n▶ Get 1 month free" = "\n▶ Получите 1 месяц бесплатно";
+"\n▶ Eligible students only" = "\n▶ Только студенты соответствующие критериям";
+"\n▶ Annual verification required" = "\n▶ Требуется ежегодная проверка";
+
+"Individual:" = "Индивидуальный:";
+"\n▶ Get 1 month free" = "\n▶ Получите 1 месяц бесплатно";
+
+"Family:" = "Семейный:";
+"\n▶ Get 1 month free" = "\n▶ Получите 1 месяц бесплатно";
+"\n▶ Add up to 5 family members (ages 13+) in your household" = "\n▶ Добавьте до 5 членов семьи (в возрасте от 13 лет)";
 
 // MARK: - SubPlanViewController
 

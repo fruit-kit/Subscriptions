@@ -391,90 +391,83 @@ class SubListViewController: UIViewController {
             subType: .Megogo,
             subPrices: [2.69, 2.99, 5.49],
             additionalInformation: [
-                "\nLight:".localized() +
-                    "\n" +
-                    "\n▶ Number of TV channels 290".localized() +
-                    "\n" +
-                    "\nMOVIES, SERIES, CARTOONS".localized() +
-                    "\n▶ Number of movies 10000+".localized() +
-                    "\n▶ 10% off on premieres".localized() +
-                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
-                    "\n" +
-                    "\nCHANNELS".localized() +
-                    "\n▶ Sports Channels".localized() +
-                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
-                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
-                    "\n" +
-                    "\nAUDIOBOOKS AND PODCASTS".localized() +
-                    "\n▶ More than 900 audiobooks in the mobile app".localized(),
-                    
-                    "\nOptimal:".localized() +
-                    "\n" +
-                    "\n▶ Number of TV channels 380".localized() +
-                    "\n" +
-                    "\nMOVIES, SERIES, CARTOONS".localized() +
-                    "\n▶ Number of movies 11000+".localized() +
-                    "\n▶ 10% off on premieres".localized() +
-                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
-                    "\n▶ Paramount+ movie collection".localized() +
-                    "\n" +
-                    "\nCHANNELS".localized() +
-                    "\n▶ Sports Channels".localized() +
-                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
-                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
-                    "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
-                    "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
-                    "\n" +
-                    "\nAUDIOBOOKS AND PODCASTS".localized() +
-                    "\n▶ More than 900 audiobooks in the mobile app".localized(),
-                    
-                    "\nMaximal:".localized() +
-                    "\n" +
-                    "\n▶ Number of TV channels 405".localized() +
-                    "\n" +
-                    "\nMOVIES, SERIES, CARTOONS".localized() +
-                    "\n▶ Number of movies 15000+".localized() +
-                    "\n▶ 10% off on premieres".localized() +
-                    "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
-                    "\n▶ Paramount+ movie collection".localized() +
-                    "\n▶ HBO's top series: \"The Last of Us\", \"Game of Thrones\", \"Euphoria\", and others".localized() +
-                    "\n" +
-                    "\nCHANNELS".localized() +
-                    "\n▶ Sports Channels".localized() +
-                    "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
-                    "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
-                    "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
-                    "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
-                    "\n" +
-                    "\nAUDIOBOOKS AND PODCASTS".localized() +
-                    "\n▶ More than 900 audiobooks in the mobile app".localized()
+                "Light:".localized() +
+                "\n" +
+                "\n▶ Number of TV channels 290".localized() +
+                "\n" +
+                "\nMOVIES, SERIES, CARTOONS".localized() +
+                "\n▶ Number of movies 10000+".localized() +
+                "\n▶ 10% off on premieres".localized() +
+                "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                "\n" +
+                "\nCHANNELS".localized() +
+                "\n▶ Sports Channels".localized() +
+                "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                "\n" +
+                "\nAUDIOBOOKS AND PODCASTS".localized() +
+                "\n▶ More than 900 audiobooks in the mobile app".localized(),
+                
+                "Optimal:".localized() +
+                "\n" +
+                "\n▶ Number of TV channels 380".localized() +
+                "\n" +
+                "\nMOVIES, SERIES, CARTOONS".localized() +
+                "\n▶ Number of movies 11000+".localized() +
+                "\n▶ 10% off on premieres".localized() +
+                "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                "\n▶ Paramount+ movie collection".localized() +
+                "\n" +
+                "\nCHANNELS".localized() +
+                "\n▶ Sports Channels".localized() +
+                "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
+                "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
+                "\n" +
+                "\nAUDIOBOOKS AND PODCASTS".localized() +
+                "\n▶ More than 900 audiobooks in the mobile app".localized(),
+                
+                "Maximal:".localized() +
+                "\n" +
+                "\n▶ Number of TV channels 405".localized() +
+                "\n" +
+                "\nMOVIES, SERIES, CARTOONS".localized() +
+                "\n▶ Number of movies 15000+".localized() +
+                "\n▶ 10% off on premieres".localized() +
+                "\n▶ Collection of movies, series, and cartoons in Full HD, HDR, 3D, 4K without ads".localized() +
+                "\n▶ Paramount+ movie collection".localized() +
+                "\n▶ HBO's top series: \"The Last of Us\", \"Game of Thrones\", \"Euphoria\", and others".localized() +
+                "\n" +
+                "\nCHANNELS".localized() +
+                "\n▶ Sports Channels".localized() +
+                "\n▶ Educational channels: Discovery, History HD, MEGA HD".localized() +
+                "\n▶ Movie channels Comedy Central, FILMBOX, [M] COMEDY HD".localized() +
+                "\n▶ Premium channels Viasat, Cine+, FOX, Eurosport and others".localized() +
+                "\n▶ Premium channels for children: Nickelodeon, Nick Jr., Tiji".localized() +
+                "\n" +
+                "\nAUDIOBOOKS AND PODCASTS".localized() +
+                "\n▶ More than 900 audiobooks in the mobile app".localized()
             ]
         ),
         Subscription(
             subType: .YouTube,
             subPrices: [1.59, 2.69, 3.99],
             additionalInformation: [
-                    """
+                "Student:".localized() +
+                    "\n" +
+                    "\n▶ Get 1 month free".localized() +
+                    "\n▶ Eligible students only".localized() +
+                    "\n▶ Annual verification required".localized(),
                     
-                    Student:
+                    "Individual:".localized() +
+                    "\n" +
+                    "\n▶ Get 1 month free".localized(),
                     
-                    - Get 1 month free
-                    - Eligible students only
-                    - Annual verification required
-                    """,
-                    """
-                    
-                    Individual:
-                    
-                    - Get 1 month free
-                    """,
-                    """
-                    
-                    Family:
-                    
-                    - Get 1 month free
-                    - Add up to 5 family members (ages 13+) in your household
-                    """
+                    "Family:".localized() +
+                    "\n" +
+                    "\n▶ Get 1 month free".localized() +
+                    "\n▶ Add up to 5 family members (ages 13+) in your household".localized()
             ]
         )
     ]
