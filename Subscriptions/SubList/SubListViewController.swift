@@ -380,18 +380,11 @@ class SubListViewController: UIViewController {
             subType: .iVi,
             subPrices: [2.99],
             additionalInformation: [
-                    """
-                    
-                    - New series and movies
-                    Ivy's exclusives, as well as thousands of movies and TV series from around the world
-                    - Simultaneous viewing on five devices
-                    Smart TV, smartphones, tablets, set-top boxes, etc
-                    - Maximum image and sound quality 4K, HDR, FHD, 5.1
-                    - Lack of advertising
-                    does not apply to TV channels
-                    - Downloading to mobile
-                    more than 10,000 TV series and movies
-                    """
+                "▶ New series and movies Ivy's exclusives, as well as thousands of movies and TV series from around the world".localized() +
+                "\n▶ Simultaneous viewing on five devices Smart TV, smartphones, tablets, set-top boxes, etc".localized() +
+                "\n▶ Maximum image and sound quality 4K, HDR, FHD, 5.1".localized() +
+                "\n▶ Lack of advertising does not apply to TV channels".localized() +
+                "\n▶ Downloading to mobile more than 10,000 TV series and movies".localized()
             ]
         ),
         Subscription(
