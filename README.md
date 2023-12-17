@@ -1,3 +1,51 @@
+<!-- English Section -->
+
+# Subscriptions
+
+## Description
+Subscriptions is an application for tracking subscription expenses. It allows users to monitor how much money is spent on each subscription monthly.
+
+## Key Features
+1. **App Registration:** Users can register using services or log in using a username and password.
+2. **Subscription Selection:** Users can choose subscriptions from the provided list. To do this, go to the "Subscriptions" tab and click on the animated plus icon.
+3. **Subscription Plan Selection:** Users can choose different subscription plans. Each subscription has a unique plan description, detailing the specifics, cost, and benefits.
+4. **Adding a Subscription:** Conveniently add new subscriptions with specified costs and payment periods. When selecting the subscription start date, users can set the date retrospectively with a 1-month interval from the current date, providing more flexible subscription management.
+5. **Total Cost of Current Subscriptions:** The main screen displays the total cost of all active subscriptions.
+6. **Subscription Deletion:** The ability to delete subscriptions that are no longer needed or have expired. This ensures simplicity and relevance of the subscription list.
+7. **Important Note:** Subscription information is synchronized with your account to provide access from different devices within the Apple ecosystem, including iPhone and iPad.
+
+## User Profile
+**The following data is displayed on the "Personal info" tab:**
+- User avatar
+- Email
+- Registration date
+- **Logout:** Next to the avatar is a button to log out, providing convenient profile management.
+
+## Requirements
+- Internet access.
+- Operating system: iOS.
+
+## Installation
+1. Go to the [GitHub project page](https://github.com/fruit-kit/subscriptions).
+2. Download and install the application on your device.
+
+## Configuration
+- **Language Change:** Language change is supported in the application settings. Currently, two languages are supported: English and Russian. Please note that for the correct display of the user interface after changing the language, a restart of the application may be required.
+- **Theme Change:** The application theme changes automatically based on the time of day. Note that a restart of the application may be required for the theme to be displayed correctly. It is recommended to restart after changing the theme.
+
+## Contact Developers
+For feedback, questions, and support, contact us:
+- **Email:** [your.subscriptions.app@gmail.com](mailto:your.subscriptions.app@gmail.com)
+- **Within the app:** use the "Settings" » "Support" tab
+
+Social Media:
+- [Telegram](https://t.me/fruitkit)
+- [Instagram](https://www.instagram.com/fruit.kit/)
+- [Facebook](https://www.facebook.com/fruitkit)
+- Or use the "Settings" » "Social" tab
+
+<!-- Russian Section -->
+
 # Subscriptions
 
 ## Описание
