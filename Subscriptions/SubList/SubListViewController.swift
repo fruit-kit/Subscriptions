@@ -361,24 +361,19 @@ class SubListViewController: UIViewController {
             subType: .Audible,
             subPrices: [7.95, 14.99],
             additionalInformation: [
-                    """
-                    
-                    Audible plus:
-                    
-                    - Free 30-day trial, then $7.95 per month
-                    - Originals
-                    - Audiobooks
-                    - Sleep tracks
-                    - Meditation programs
-                    - Podcasts
-                    """,
-                    """
-                    
-                    Audible premium plus:
-                    
-                    - Free 30-day trial, then $14.95 per month
-                    - Enjoy everything Audible Plus offers plus 1 title per month from an extended selection of best sellers and new releases
-                    """
+                "Audible plus:".localized() +
+                "\n" +
+                "\n▶ Free 30-day trial, then $7.95 per month".localized() +
+                "\n▶ Originals".localized() +
+                "\n▶ Audiobooks".localized() +
+                "\n▶ Sleep tracks".localized() +
+                "\n▶ Meditation programs".localized() +
+                "\n▶ Podcasts".localized(),
+                
+                "Audible premium plus:".localized() +
+                "\n" +
+                "\n▶ Free 30-day trial, then $14.95 per month".localized() +
+                "\n▶ Enjoy everything Audible Plus offers plus 1 title per month from an extended selection of best sellers and new releases" .localized()
             ]
         ),
         Subscription(

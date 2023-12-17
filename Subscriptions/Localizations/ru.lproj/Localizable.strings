@@ -329,6 +329,20 @@
 "\n▶ Game trials" = "\n▶ Пробные игры";
 "\n▶ Cloud streaming" = "\n▶ Облачная трансляция";
 
+// MARK: Audible
+
+"Audible plus:" = "Audible плюс:";
+"\n▶ Free 30-day trial, then $7.95 per month" = "\n▶ Бесплатная 30-дневная пробная версия, затем 7.95 долларов в месяц";
+"\n▶ Originals" = "\n▶ Оригиналы";
+"\n▶ Audiobooks" = "\n▶ Аудиокниги";
+"\n▶ Sleep tracks" = "\n▶ Треки для сна";
+"\n▶ Meditation programs" = "\n▶ Программы медитации";
+"\n▶ Podcasts" = "\n▶ Подкасты";
+
+"Audible premium plus:" = "Audible премиум плюс:";
+"\n▶ Free 30-day trial, then $14.95 per month" = "\n▶ Бесплатная 30-дневная пробная версия, затем 7.95 долларов в месяц";
+"\n▶ Enjoy everything Audible Plus offers plus 1 title per month from an extended selection of best sellers and new releases" = "\n▶ Наслаждайтесь всем, что предлагает Audible Plus, плюс 1 титул в месяц из расширенного выбора бестселлеров и новых выпусков";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";
