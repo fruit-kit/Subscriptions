@@ -208,36 +208,31 @@ class SubListViewController: UIViewController {
             subType: .AppleNews,
             subPrices: [0.00, 12.99],
             additionalInformation: [
-                    """
+                "\n▶ AppleNews (Always free):".localized() +
+                "\n" +
+                "\n▶ Top stories chosen by editors, personalized for you".localized() +
+                "\n▶ My Sports with scores, standings, and highlights".localized() +
+                "\n▶ Apple News Today and In Conversation 🎧".localized() +
+                "\n▶ Local news".localized() +
+                "\n▶ Private and secure reading".localized() +
+                "\n▶ CarPlay".localized(),
                     
-                    Apple News (Always free):
-                    
-                    - Top stories chosen by editors, personalized for you
-                    - My Sports with scores, standings, and highlights
-                    - Apple News Today and In Conversation 🎧
-                    - Local news
-                    - Private and secure reading
-                    - CarPlay
-                    """,
-                    """
-                    
-                    Apple News+:
-                    
-                    - 1 month free
-                    - Hundreds of magazines and leading newspapers
-                    - Apple News+ audio stories 🎧
-                    - Local news from top regional sources
-                    - Sports coverage from local and premium publications
-                    - Reading online and off across devices
-                    - Cover-to-cover magazines
-                    - Family Sharing for up to six
-                    - Top stories chosen by editors, personalized for you
-                    - My Sports with scores, standings, and highlights
-                    - Apple News Today and In Conversation 🎧
-                    - Local news
-                    - Private and secure reading
-                    - CarPlay
-                    """
+                "AppleNews+:" +
+                "\n" +
+                "\n▶ Top stories chosen by editors, personalized for you".localized() +
+                "\n▶ My Sports with scores, standings, and highlights".localized() +
+                "\n▶ Apple News Today and In Conversation 🎧".localized() +
+                "\n▶ Local news".localized() +
+                "\n▶ Private and secure reading".localized() +
+                "\n▶ CarPlay".localized() +
+                "\n▶ 1 month free".localized() +
+                "\n▶ Hundreds of magazines and leading newspapers".localized() +
+                "\n▶ Apple News+ audio stories 🎧".localized() +
+                "\n▶ Local news from top regional sources".localized() +
+                "\n▶ Sports coverage from local and premium publications".localized() +
+                "\n▶ Reading online and off across devices".localized() +
+                "\n▶ Cover-to-cover magazines".localized() +
+                "\n▶ Family Sharing for up to six".localized()
             ]
         ),
         Subscription(

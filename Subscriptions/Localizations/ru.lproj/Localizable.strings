@@ -207,6 +207,32 @@
 "\n▶ Play online, offline, and across your favorite Apple devices" = "\n▶ Играйте онлайн, оффлайн и на своих любимых устройствах Apple";
 "\n▶ Share your subscription with up to five people" = "\n▶ Поделитесь своей подпиской с пятью людьми";
 
+// MARK: AppleNews
+
+"\n▶ AppleNews (Always free):" = "\n▶ AppleNews (всегда бесплатно):";
+"\n▶ Top stories chosen by editors, personalized for you" = "\n▶ Лучшие новости, выбранные редакторами и персонализированные для вас";
+"\n▶ My Sports with scores, standings, and highlights" = "\n▶ My Sports с результатами, турнирной таблицей и лучшими моментами";
+"\n▶ Apple News Today and In Conversation 🎧" = "\n▶ Новости Apple сегодня и в разговоре 🎧";
+"\n▶ Local news" = "\n▶ Местные новости";
+"\n▶ Private and secure reading" = "\n▶ Конфиденциальное и безопасное чтение";
+"\n▶ CarPlay" = "\n▶ CarPlay";
+
+"\n▶ AppleNews (Always free):" = "\n▶ AppleNews (всегда бесплатно):";
+"\n▶ Top stories chosen by editors, personalized for you" = "\n▶ Лучшие новости, выбранные редакторами и персонализированные для вас";
+"\n▶ My Sports with scores, standings, and highlights" = "\n▶ My Sports с результатами, турнирной таблицей и лучшими моментами";
+"\n▶ Apple News Today and In Conversation 🎧" = "\n▶ Новости Apple сегодня и в разговоре 🎧";
+"\n▶ Local news" = "\n▶ Местные новости";
+"\n▶ Private and secure reading" = "\n▶ Конфиденциальное и безопасное чтение";
+"\n▶ CarPlay" = "\n▶ CarPlay";
+"\n▶ 1 month free" = "\n▶ 1 месяц бесплатно";
+"\n▶ Hundreds of magazines and leading newspapers" = "\n▶ Сотни журналов и ведущих газет";
+"\n▶ Apple News+ audio stories 🎧" = "\n▶ Аудиоистории Apple News+ 🎧";
+"\n▶ Local news from top regional sources" = "\n▶ Местные новости из ведущих региональных источников";
+"\n▶ Sports coverage from local and premium publications" = "\n▶ Спортивные репортажи из местных и премиальных изданий";
+"\n▶ Reading online and off across devices" = "\n▶ Чтение онлайн и оффлайн на разных устройствах";
+"\n▶ Cover-to-cover magazines" = "\n▶ Журналы от корки до корки";
+"\n▶ Family Sharing for up to six" = "\n▶ Семейный доступ до шести человек";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";
