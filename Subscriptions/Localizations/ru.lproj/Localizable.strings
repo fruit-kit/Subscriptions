@@ -256,6 +256,26 @@
 "\n▶ Music ($9.99/mo.)" = "\n▶ Музыка ($9.99 в месяц)";
 "\n▶ Arcade ($6.99/mo.)" = "\n▶ Arcade ($6.99 в месяц)";
 
+// MARK: Spotify
+
+"Premium Student:" = "Премиум Студент:";
+"\n▶ 1 verified Premium account" = "\n▶ 1 подтвержденный Премиум-аккаунт";
+"\n▶ Discount for students who meet the conditions" = "\n▶ Скидка для студентов, выполнивших условия";
+"\n▶ Cancel anytime" = "\n▶ Отменить в любое время";
+
+"Premium Individual:" = "Премиум Индивидуальный:";
+"\n▶ 1 Premium account" = "\n▶ 1 Премиум аккаунт";
+"\n▶ Cancel anytime" = "\n▶ Отменить в любое время";
+
+"Premium Duo:" = "Премиум Двойной:";
+"\n▶ 2 Premium accounts" = "\n▶ 2 Премиум аккаунта";
+"\n▶ Cancel anytime" = "\n▶ Отменить в любое время";
+
+"Premium Family:" = "Премиум Семейный:";
+"\n▶ 6 Premium accounts" = "\n▶ 6 Премиум аккаунтов";
+"\n▶ Blocking music with age restrictions" = "\n▶ Блокировка музыки с возрастными ограничениями";
+"\n▶ Cancel anytime" = "\n▶ Отменить в любое время";
+
 // MARK: - SubPlanViewController
 
 "Select Plan" = "Выбор плана";

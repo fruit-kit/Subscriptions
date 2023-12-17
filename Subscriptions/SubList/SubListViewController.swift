@@ -270,36 +270,27 @@ class SubListViewController: UIViewController {
             subType: .Spotify,
             subPrices: [2.49, 4.99, 6.49, 7.99],
             additionalInformation: [
-                    """
+                "Premium Student:".localized() +
+                    "\n" +
+                    "\n▶ 1 verified Premium account".localized() +
+                    "\n▶ Discount for students who meet the conditions".localized() +
+                    "\n▶ Cancel anytime".localized(),
                     
-                    Premium Student:
+                    "Premium Individual:".localized() +
+                    "\n" +
+                    "\n▶ 1 Premium account".localized() +
+                    "\n▶ Cancel anytime".localized(),
                     
-                    - 1 verified Premium account
-                    - Discount for students who meet the conditions
-                    - Cancel anytime
-                    """,
-                    """
+                    "Premium Duo:".localized() +
+                    "\n" +
+                    "\n▶ 2 Premium accounts".localized() +
+                    "\n▶ Cancel anytime".localized(),
                     
-                    Premium Individual:
-                    
-                    - 1 Premium account
-                    - Cancel anytime
-                    """,
-                    """
-                    
-                    Premium Duo:
-                    
-                    - 2 Premium accounts
-                    - Cancel anytime
-                    """,
-                    """
-                    
-                    Premium Family:
-                    
-                    - 6 Premium accounts
-                    - Blocking music with age restrictions
-                    - Cancel anytime
-                    """
+                    "Premium Family:".localized() +
+                    "\n" +
+                    "\n▶ 6 Premium accounts".localized() +
+                    "\n▶ Blocking music with age restrictions".localized() +
+                    "\n▶ Cancel anytime".localized()
             ]
         ),
         Subscription(
